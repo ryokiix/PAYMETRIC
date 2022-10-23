@@ -4,6 +4,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="untitled1.views.hello_world" />
+        <option value="Paymetricv2.urls.django" />
       </list>
     </option>
   </inspection_tool>
